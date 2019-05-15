@@ -1,0 +1,13 @@
+Package: bancommender
+Title: Recommendation system
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michael",
+           family = "Mifek",
+           role = c("aut", "cre"),
+           email = "mifek@me.com")
+Description: Package should analyse availabel data on product sales
+             to indicate possible recommendations for clients.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
